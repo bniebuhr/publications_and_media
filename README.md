@@ -22,6 +22,8 @@ https://jornal.unesp.br/2021/11/19/levantamento-intercontinental-de-deslocamento
 
 VindVal report 2021: https://www.naturvardsverket.se/om-oss/publikationer/7000/renar-renskotsel-och-vindkraft/
 
+News in Swedish: https://www.slu.se/ew-nyheter/2021/11/renar-och-renskotsel-paverkas-negativt-av-vindkraftsetableringar/
+
 News in Norsk: https://www.europower-energi.no/vindkraft/forskere-enige-om-vindkraftens-negative-pavirkning-pa-reindriften/2-1-1091544
 
 ## In Norway
