@@ -1,5 +1,15 @@
 # Publications and Media
 
+## Fragmentation and Dispersal in Golden Lion Tamarins
+
+News of genetics and dispersal, in Portuguese, maybe be found [here](https://www.saojosedoscampos.com.br/2013/cadernos/index.php?id=60027&cat=236&caderno=meio-ambiente).
+
+## Movement of fauna and ecological processes
+
+### Birds move slowly in forest edges and disperse seeds
+
+Here news of our paper in Portuguese: https://www2.unesp.br/portal#!/noticia/22214/movimento-de-aves-dispersoras-de-sementes/
+
 ## Natural regeneration of forests
 
 We can find the report with our methods to simulate natural regeneration potential in the link below. The report is in Portuguese, but there is a short description in English as well. Access through: https://www.inputbrasil.org/publicacoes/identificacao-de-areas-com-alto-potencial-de-regeneracao-natural-proposta-metodologica-na-chance-de-dispersao-de-sementes/?lang=en
