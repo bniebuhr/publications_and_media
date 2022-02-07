@@ -8,11 +8,13 @@ News of genetics and dispersal, in Portuguese, maybe be found [here](https://www
 
 ### Birds move slowly in forest edges and disperse seeds
 
-Here news of our paper in Portuguese: https://www2.unesp.br/portal#!/noticia/22214/movimento-de-aves-dispersoras-de-sementes/
+Here news of our paper in Portuguese:  
+https://www2.unesp.br/portal#!/noticia/22214/movimento-de-aves-dispersoras-de-sementes/
 
 ## Natural regeneration of forests
 
-We can find the report with our methods to simulate natural regeneration potential in the link below. The report is in Portuguese, but there is a short description in English as well. Access through: https://www.inputbrasil.org/publicacoes/identificacao-de-areas-com-alto-potencial-de-regeneracao-natural-proposta-metodologica-na-chance-de-dispersao-de-sementes/?lang=en
+We can find the report with our methods to simulate natural regeneration potential in the link below. The report is in Portuguese, but there is a short description in English as well.  
+Access through: https://www.inputbrasil.org/publicacoes/identificacao-de-areas-com-alto-potencial-de-regeneracao-natural-proposta-metodologica-na-chance-de-dispersao-de-sementes/?lang=en
 
 
 ## Carnivores
@@ -37,3 +39,8 @@ News in Swedish: https://www.slu.se/ew-nyheter/2021/11/renar-och-renskotsel-pave
 News in Norsk: https://www.europower-energi.no/vindkraft/forskere-enige-om-vindkraftens-negative-pavirkning-pa-reindriften/2-1-1091544
 
 ## In Norway
+
+## Fosen court case regarding conflicts between Sami reindeer herders and wind power development
+
+Some news and context here:  
+https://www.aljazeera.com/opinions/2022/2/5/norways-must-stop-violating-indigenous-rights
